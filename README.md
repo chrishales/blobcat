@@ -1,7 +1,7 @@
 BLOBCAT
 =======
 
-![logo](./blobcat.png)
+![logo](./blobcat.jpg)
 
 Software to catalogue blobs.
 
